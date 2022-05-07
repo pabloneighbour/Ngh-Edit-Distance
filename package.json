@@ -1,0 +1,23 @@
+{
+  "name": "ngh-edit-distance",
+  "version": "1.0.0",
+  "description": "A simple function that calculates the edit distance between two strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloneighbour/Ngh-Edit-Distance.git"
+  },
+  "keywords": [
+    "EditDistance",
+    "LevenshteinDistance"
+  ],
+  "author": "Pablo Neighbour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloneighbour/Ngh-Edit-Distance/issues"
+  },
+  "homepage": "https://github.com/pabloneighbour/Ngh-Edit-Distance#readme"
+}
