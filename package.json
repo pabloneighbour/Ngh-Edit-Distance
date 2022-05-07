@@ -1,6 +1,6 @@
 {
   "name": "ngh-edit-distance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple function that calculates the edit distance between two strings.",
   "main": "index.js",
   "scripts": {
